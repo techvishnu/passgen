@@ -40,8 +40,9 @@ password-generator/
 ├── index.html
 ├── styles.css
 └── script.js
+```
 
-Customization
+## Customization
 You can customize the appearance and functionality of the password generator by modifying the styles.css and script.js files.
 
 HTML (index.html): Structure of the password generator.
@@ -50,5 +51,5 @@ JavaScript (script.js): Functionality for generating passwords.
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request to suggest changes.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
